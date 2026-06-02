@@ -69,6 +69,12 @@ AI was used as a support tool for learning and guidance, while all implementatio
 - Cloud sync support
 
 ---
+### Youtube Video Submission
+<p align="center">
+  <img width="663" height="862" alt="anime picker video" src="https://youtube.com/shorts/bKt1GdtojpA?si=6_LPAqnUK7prx7mg" />
+</p>
+
+---
 
 ## 🛠️ How to Run
 
