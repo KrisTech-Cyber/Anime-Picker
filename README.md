@@ -20,18 +20,6 @@ The app automatically stores data so the list is preserved between sessions.
 - Auto-load saved anime on startup  
 - Clean and simple GUI using CustomTkinter  
 
----
-
-## 🛠️ How to Run
-
-### Requirements
-- Python 3.x  
-- CustomTkinter
-
-### Install dependencies:
-```bash
-pip install customtkinter
-
 ## 🚀 How It Works
 
 1. Enter an anime title in the input box  
@@ -77,3 +65,15 @@ AI was used as a support tool for learning and guidance, while all implementatio
 - Anime categories (genre, type, length)  
 - Improved UI/UX design  
 - Cloud sync support
+
+---
+
+## 🛠️ How to Run
+
+### Requirements
+- Python 3.x  
+- CustomTkinter
+
+### Install dependencies:
+```bash
+pip install customtkinter
