@@ -1,6 +1,6 @@
 # 🎌 Anime Picker
 
-<img width="663" height="862" alt="anime picker screen" src="https://github.com/user-attachments/assets/39a4fd32-2c51-4c69-b829-a1699b84d65a" />
+<img width="663" height="862" align="center" alt="anime picker screen" src="https://github.com/user-attachments/assets/39a4fd32-2c51-4c69-b829-a1699b84d65a" />
 
 **Final Project Submission – Code in Place 6**
 
